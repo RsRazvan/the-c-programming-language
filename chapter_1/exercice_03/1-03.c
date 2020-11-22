@@ -1,11 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /* print Fahrenheit-Celsius table
 for fahr = 0, 20, ..., 300; floatinq-point version */
 
 int main(void)
 {
-
     float fahr, celsius;
     int upper, lower, step;
 
@@ -24,5 +23,4 @@ printf("Fahrenheid \t Celsius\n\n");
         printf(" %3.0f \t\t %6.1f\n", fahr, celsius);
         fahr += step;
     }
-
 }
