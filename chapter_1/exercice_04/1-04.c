@@ -1,8 +1,9 @@
 
 #include <stdio.h>
 
-/* print Celsius-Fahrenheit table
-for celsius = 0, 20, ..., 300; floatinq-point version */
+// print Celsius-Fahrenheit table
+//for celsius = 0, 20, ..., 300;
+//floatinq-point version 
 
 int main(void)
 {
