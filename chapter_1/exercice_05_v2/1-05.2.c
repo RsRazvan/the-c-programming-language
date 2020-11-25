@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// print Fahrenheit-Celsius table in revers order with for loop
+// for Fahrenheit = 300, 280, ..., 0;
+// floatinq-point version 
+
 int main(void) 
 {
 	int fahr;
