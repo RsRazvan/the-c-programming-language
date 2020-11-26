@@ -19,5 +19,5 @@ for (fahr = 300; fahr >= 0; fahr -= 20)
 
 //Observation:
 //In this exercice both, for and while, are correct
-//In this case while is more frendly for programmer, but 
+//In this case while is more friendly for programmer, but 
 // for is much compact and use less variables
