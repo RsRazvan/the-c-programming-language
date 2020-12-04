@@ -7,5 +7,5 @@ int main(void)
 	printf ("Expresion value is %d.\n", getchar() != EOF );
 }
 
-//Observation
+//Observation:
 // The expresion value is 1 if the character is not EOF sinal
