@@ -11,5 +11,5 @@ int main(void)
 }
 
 
-//Observation
+//Observation:
 //The value of EOF is -1
