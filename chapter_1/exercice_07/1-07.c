@@ -9,3 +9,7 @@ int main(void)
 	printf("The value of EOF is %d.\n", c);
 
 }
+
+
+//Observation
+//The value of EOF is -1
