@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-/*This program cont blank spaces, tabs and lines*/
+/*This program count blank spaces, tabs and lines*/
 
 int main(void) {
 
 	int c, blanks = 0, tabs = 0, newline = 0;
 
+	 // Counts the blanks, tabs and newlines
 	while ((c = getchar()) != EOF) {
 		if (c == ' ')
 		{
@@ -30,3 +31,4 @@ int main(void) {
 //A program need to be careful with = and == 
 //Equal sign = is for atribution but
 //the double equals sign == is the C notation for "is equal to"
+
