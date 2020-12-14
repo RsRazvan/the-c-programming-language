@@ -27,3 +27,6 @@ int main(void) {
 //For condition to become false need to enter EOF
 //In windows can simulate the EOF with ctrl + z
 
+//A program need to be careful with = and == 
+//Equal sign = is for atribution but
+//the double equals sign == is the C notation for "is equal to"
